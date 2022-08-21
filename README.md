@@ -1,2 +1,2 @@
-# WAY-OF-THE-HUNTER-change-Field-Of-View
-Tools to change FoV and few other things
+# Way Of The Hunter
+With this you can change the Field of View (FoV) in the game "Way of the Hunter", and a few other things.
